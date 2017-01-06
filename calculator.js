@@ -14,7 +14,6 @@ function v(val) {
 // Evaluate the equation
 function e() {
 	try {
-		try {
 			d(eval(document.getElementById("d").value));
 		}
 		catch(err) {
