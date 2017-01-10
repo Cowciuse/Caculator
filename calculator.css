@@ -3,7 +3,7 @@
 
 /* Caculator Box */
 .box {
-	background-color: #e5e7ea;
+	background-color: #D7CF3F;
 	height: 300px;
 	width: 250px;
 	border-radius: 10px;
@@ -13,7 +13,7 @@
 }
 /* Display */
 .display {
-	background-color: #bfc4ce;
+	background-color: #22C6C2;
 	width: 220px;
 	position: relative;
 	left: 15px;
@@ -26,7 +26,7 @@
 	top: 2px;
 	height: 30px;
 	color: black;
-	background-color: #bccd95;
+	background-color: #0ED71C;
 	font-size: 21px;
 	text-align: right;
 }
