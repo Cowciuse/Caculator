@@ -2,8 +2,12 @@
 /* CSS Document */
 
 /* Caculator Box */
+body {
+background-image: url("http://animalnewyork.com/wp-content/uploads/trash_1120_14.jpg")	
+}
 .box {
-	background-color: #D7CF3F;
+	background-image: url("http://99percentinvisible.org/app/uploads/2016/03/biohazard-warning-symbol.jpg");
+	background-size:100%;
 	height: 100%;
 	width: 250px;
 	border-radius: 10px;

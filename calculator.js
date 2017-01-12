@@ -13,6 +13,7 @@ function v(val) {
 if( val == "π" ) {
         val = Math.PI;
     }
+	
 // Evaluate the equation
 function e() {
 	try {
