@@ -1,5 +1,4 @@
-// JavaScript Document
-
+// JavaScript Documen
 
 // Change Display
 function d(val) {
