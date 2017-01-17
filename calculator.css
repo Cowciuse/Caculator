@@ -2,9 +2,13 @@
 /* CSS Document */
 
 /* Caculator Box */
+body {
+background-image: url("http://animalnewyork.com/wp-content/uploads/trash_1120_14.jpg")	
+}
 .box {
-	background-color: #e5e7ea;
-	height: 300px;
+	background-image: url("http://99percentinvisible.org/app/uploads/2016/03/biohazard-warning-symbol.jpg");
+	background-size:100%;
+	height: 100%;
 	width: 250px;
 	border-radius: 10px;
 	position: relative;
@@ -13,7 +17,7 @@
 }
 /* Display */
 .display {
-	background-color: #bfc4ce;
+	background-color: #22C6C2;
 	width: 220px;
 	position: relative;
 	left: 15px;
@@ -26,7 +30,7 @@
 	top: 2px;
 	height: 30px;
 	color: black;
-	background-color: #bccd95;
+	background-color: #0ED71C;
 	font-size: 21px;
 	text-align: right;
 }
