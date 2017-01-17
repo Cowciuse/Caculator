@@ -10,7 +10,7 @@ function v(val) {
 	document.getElementById("d").value += val;
 }
 if( val == "π" ) {
-        val = Math.PI;
+        val = Math.P I;
     }
 	
 // Evaluate the equation
